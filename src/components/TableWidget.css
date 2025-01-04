@@ -1,0 +1,38 @@
+.border-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.table-heading-wrapper{
+    display: flex;
+    padding-left: 1rem;
+    font-weight: bolder;
+    border: 1px solid #fedfc2;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+.td-style-class {
+    border-top-left-radius: 1rem;
+    border-bottom: 1px solid grey;
+    line-height: 2rem;
+}
+.simultaneous-rows-color {
+    background-color: #FFF5EC;
+}
+.header-specifics {
+    background-color: #fedfc2;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+.pagination-navigator-buttons{
+    background: transparent;
+    color : blue;
+    padding: 0 0.4rem;
+}
+.pagination-selector-button {
+    padding: 0 0.5rem;
+}
+.current-selected-pagination {
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+}
