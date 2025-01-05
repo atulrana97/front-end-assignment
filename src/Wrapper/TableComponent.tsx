@@ -1,6 +1,6 @@
 import React from "react";
 import { DataContext } from "./DataWrapper";
-import TableWidget from "../components/TableWidget";
+import TableWidget from "../components/TableWidget/TableWidget";
 
 export function TableComponent() {
   return (
